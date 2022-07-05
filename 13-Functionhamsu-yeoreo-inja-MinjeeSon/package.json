@@ -1,0 +1,15 @@
+{
+  "name": "13-Functionhamsu-yeoreo-inja",
+  "version": "1.0.0",
+  "description": "이전에 함수에 데이터(인자)를 전달하는 방법에 대해 다뤄보았습니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}

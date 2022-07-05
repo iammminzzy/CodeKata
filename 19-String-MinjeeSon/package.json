@@ -1,0 +1,15 @@
+{
+  "name": "19-1-String",
+  "version": "1.0.0",
+  "description": "이제까지 쌍따옴표(\"\") 안에 텍스트가 들어가면 String형이라고 배웠습니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
